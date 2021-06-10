@@ -1,3 +1,7 @@
+**This project is no longer being maintained by me. Please go to https://github.com/waschinski/photo-stream/ a version maintained by someone who actually knows what they're doing :)**
+
+---
+
 ![Photo Stream Social Preview](https://repository-images.githubusercontent.com/244708193/8710f480-6010-11ea-9fd6-41bdaea7ab02)
 
 # Photo Stream
